@@ -3,6 +3,8 @@
 
 NutriBridge is a web-based platform designed to empower Rwandan communities with **nutrition education**, **simple tracking tools**, and **connections to local support networks**.  
 It aims to raise awareness, encourage healthy eating habits, and support community-driven solutions to malnutrition and undernutrition.
+# HERE IS THE LINK TO THE WEBSITE
+http://localhost:3000/#/home
 
 ---
 
@@ -18,15 +20,6 @@ A welcoming dashboard introducing users to NutriBridge and its mission.
 
 ### 📚 Education
 Access easy-to-understand nutrition education modules designed for youth, parents, and communities.  
-Topics include:
-- **Balanced Plate:** Learn how to combine carbohydrates, proteins, fats, and plenty of fruits and vegetables.  
-  *References:* [WHO Healthy Diet](#), [FAO Food-Based Guidelines](#)
-- **Maternal & Child Nutrition:** Guidance on exclusive breastfeeding, child feeding practices, and growth.  
-  *References:* [WHO Breastfeeding](#), [UNICEF Child Nutrition](#)
-- **Hygiene & Food Safety:** Explore practices that prevent foodborne illness and promote household hygiene.  
-  *References:* [WHO Food Safety](#), [CDC Handwashing](#)
-- **Local Foods:** Discover how to use local staples (beans, maize, bananas, dairy, vegetables) for nutritious diets.  
-  *References:* [FAO Rwanda Nutrition](#), [HarvestPlus Biofortification](#)
 
 Each lesson can be **marked as completed** to track learning progress.
 
@@ -45,15 +38,6 @@ Monitor nutrition-related data and personal progress.
   
 - **Dietary Diversity Tracker:**  
   Select food groups consumed daily to estimate dietary diversity.
-  - Grains/Roots/Tubers  
-  - Legumes/Nuts  
-  - Dairy  
-  - Meat/Fish/Eggs  
-  - Vitamin A-rich Fruits/Veg  
-  - Other Fruits/Veg  
-  - Fats/Oils  
-
-  Save daily logs to monitor eating habits over time.
 
 ---
 
