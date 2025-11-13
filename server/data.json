@@ -1,0 +1,64 @@
+{
+  "kpis": {
+    "awareness": 6,
+    "children": 0,
+    "diversity": 3
+  },
+  "logs": {
+    "bmi": [],
+    "muac": [],
+    "diversity": [
+      {
+        "groups": [
+          5
+        ],
+        "score": 1,
+        "ts": 1763056779134
+      },
+      {
+        "groups": [
+          2,
+          3
+        ],
+        "score": 2,
+        "ts": 1763056808031
+      },
+      {
+        "groups": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "score": 4,
+        "ts": 1763056816533
+      }
+    ]
+  },
+  "directory": [
+    {
+      "name": "Kigali Nutrition Center",
+      "type": "Health Worker",
+      "location": "Kigali",
+      "contact": "0780 000 111"
+    },
+    {
+      "name": "Nyamagabe Food Co-op",
+      "type": "Supplier",
+      "location": "Nyamagabe",
+      "contact": "0781 222 333"
+    },
+    {
+      "name": "Rwanda Child Health Initiative",
+      "type": "NGO",
+      "location": "Musanze",
+      "contact": "info@rchi.org"
+    },
+    {
+      "name": "Karongi Community Clinic",
+      "type": "Health Worker",
+      "location": "Karongi",
+      "contact": "0788 444 555"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nutribridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NutriBridge web app for combating malnutrition in Rwanda",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
